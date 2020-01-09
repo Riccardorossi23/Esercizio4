@@ -9,7 +9,7 @@
     <Grid>
         <Label Name="LblRisultato" Content="" HorizontalAlignment="Left" Height="68" Margin="163,209,0,0" VerticalAlignment="Top" Width="171"/>
         <TextBox Name="TxtNumero" HorizontalAlignment="Left" Height="31" Margin="60,59,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="147" />
-        <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="163,116,0,0" VerticalAlignment="Top" Width="171" Click="Button_Click"/>
+        <Button Content="Risultato" HorizontalAlignment="Left" Height="40" Margin="163,116,0,0" VerticalAlignment="Top" Width="171" Click="Button_Click"/>
         <TextBox x:Name="TxtQuantità" HorizontalAlignment="Left" Height="31" Margin="295,59,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="147"/>
         <Label Content="Quantità" HorizontalAlignment="Left" Height="25" Margin="295,29,0,0" VerticalAlignment="Top" Width="147"/>
 

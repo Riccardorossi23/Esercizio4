@@ -24,7 +24,6 @@ namespace Esercizio4
             else
                 resp = double.NaN;
             return resp;
-
         }
     }
 }

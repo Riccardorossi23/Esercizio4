@@ -36,7 +36,6 @@ namespace WPFTemperatura
                 temperatura[i] = valorenumerico;
             }
             LblRisultato.Content = Esercizio4.Temperatura.MediaTemperature(temperatura);
-
         }
     }
 }
