@@ -13,6 +13,7 @@
         <TextBox x:Name="TxtQuantità" HorizontalAlignment="Left" Height="31" Margin="295,59,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="147"/>
         <Label Content="Quantità" HorizontalAlignment="Left" Height="25" Margin="295,29,0,0" VerticalAlignment="Top" Width="147"/>
 
+        
     </Grid>
 </Window>
 
