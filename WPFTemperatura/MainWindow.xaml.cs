@@ -25,6 +25,7 @@ namespace WPFTemperatura
             InitializeComponent();
         }
         int i = 0;
+
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             int quantità = int.Parse(TxtQuantità.Text);

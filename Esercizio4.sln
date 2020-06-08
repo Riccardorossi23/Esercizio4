@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esercizio4", "Esercizio4\Es
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFTemperatura", "WPFTemperatura\WPFTemperatura.csproj", "{0E605360-2942-47C5-9DDA-699609030433}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTemperature", "TestTemperature\TestTemperature.csproj", "{1A8A5C98-0EF0-4E5B-A824-BCB5E655CE23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0E605360-2942-47C5-9DDA-699609030433}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E605360-2942-47C5-9DDA-699609030433}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E605360-2942-47C5-9DDA-699609030433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A8A5C98-0EF0-4E5B-A824-BCB5E655CE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8A5C98-0EF0-4E5B-A824-BCB5E655CE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8A5C98-0EF0-4E5B-A824-BCB5E655CE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8A5C98-0EF0-4E5B-A824-BCB5E655CE23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
